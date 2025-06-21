@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "+92"; ObjectID = "5BF-zN-hEM"; */
+"5BF-zN-hEM.text" = "+92";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5SI-KN-6h9"; */
+"5SI-KN-6h9.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Lm-1V-WPL"; */
+"6Lm-1V-WPL.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "6bn-dh-bCb"; */
+"6bn-dh-bCb.text" = "Register";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "7Wo-hp-dgg"; */
+"7Wo-hp-dgg.text" = "Register";
+
+/* Class = "UILabel"; text = "Terms & conditions"; ObjectID = "8dn-js-h0U"; */
+"8dn-js-h0U.text" = "Terms & conditions";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "HWf-tA-olu"; */
+"HWf-tA-olu.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "I accept the"; ObjectID = "KOO-he-AnA"; */
+"KOO-he-AnA.text" = "I accept the";
+
+/* Class = "UILabel"; text = "of SpaZ"; ObjectID = "O7E-2O-Avy"; */
+"O7E-2O-Avy.text" = "of SpaZ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "QbO-NM-73B"; */
+"QbO-NM-73B.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Continue with Apple"; ObjectID = "SNG-qY-pDk"; */
+"SNG-qY-pDk.text" = "Continue with Apple";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "TBd-MB-STk"; */
+"TBd-MB-STk.text" = "Login";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "WbM-do-cP4"; */
+"WbM-do-cP4.text" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "a10-qW-dyt"; */
+"a10-qW-dyt.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Please login to your account"; ObjectID = "aBr-OY-Zaf"; */
+"aBr-OY-Zaf.text" = "Please login to your account";
+
+/* Class = "UILabel"; text = "Or use your social login"; ObjectID = "dS7-YM-1c9"; */
+"dS7-YM-1c9.text" = "Or use your social login";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "gKL-IJ-Mqw"; */
+"gKL-IJ-Mqw.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "iDT-xQ-neJ"; */
+"iDT-xQ-neJ.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Continue with Google"; ObjectID = "qZT-LC-q43"; */
+"qZT-LC-q43.text" = "Continue with Google";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "xgr-aa-tY7"; */
+"xgr-aa-tY7.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "y27-5Q-zKj"; */
+"y27-5Q-zKj.text" = "Login";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "zgT-OI-h7v"; */
+"zgT-OI-h7v.placeholder" = "First Name";

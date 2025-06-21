@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "17J-eJ-BDN"; */
+"17J-eJ-BDN.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "1mn-kn-q1v"; */
+"1mn-kn-q1v.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "12/12/2022"; ObjectID = "2dD-4y-INe"; */
+"2dD-4y-INe.text" = "12/12/2022";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "3Q6-MC-PXB"; */
+"3Q6-MC-PXB.placeholder" = "Enter New Password";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "3sH-9e-blM"; */
+"3sH-9e-blM.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "42R-1p-R3i"; */
+"42R-1p-R3i.text" = "Change Password";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "52h-Sq-sr7"; */
+"52h-Sq-sr7.placeholder" = "Country";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "8Fe-tX-192"; */
+"8Fe-tX-192.title" = "Home";
+
+/* Class = "UILabel"; text = "My Orders"; ObjectID = "9mg-rD-9jL"; */
+"9mg-rD-9jL.text" = "My Orders";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "Ahh-cH-vQT"; */
+"Ahh-cH-vQT.normalTitle" = "Edit Profile";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Bsk-IP-Mll"; */
+"Bsk-IP-Mll.title" = "Settings";
+
+/* Class = "UILabel"; text = "Your order placed successfully for more information please check request"; ObjectID = "CpM-B8-eSf"; */
+"CpM-B8-eSf.text" = "Your order placed successfully for more information please check request";
+
+/* Class = "UITabBarItem"; title = "Favourite"; ObjectID = "Dwv-wq-aSj"; */
+"Dwv-wq-aSj.title" = "Favourite";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "E22-Ht-m2x"; */
+"E22-Ht-m2x.text" = "Logout";
+
+/* Class = "UILabel"; text = "Spa"; ObjectID = "EcM-mY-m1p"; */
+"EcM-mY-m1p.text" = "Spa";
+
+/* Class = "UIButton"; normalTitle = "Click Here"; ObjectID = "Ekw-k3-S2N"; */
+"Ekw-k3-S2N.normalTitle" = "Click Here";
+
+/* Class = "UILabel"; text = "Rh3423545"; ObjectID = "Ffy-Rz-0cL"; */
+"Ffy-Rz-0cL.text" = "Rh3423545";
+
+/* Class = "UILabel"; text = "Favourite"; ObjectID = "IHA-j2-9u6"; */
+"IHA-j2-9u6.text" = "Favourite";
+
+/* Class = "UILabel"; text = "Love Dale Spa"; ObjectID = "KBE-Ag-ukH"; */
+"KBE-Ag-ukH.text" = "Love Dale Spa";
+
+/* Class = "UILabel"; text = "Log in?"; ObjectID = "LTT-9T-NVZ"; */
+"LTT-9T-NVZ.text" = "Log in?";
+
+/* Class = "UILabel"; text = "Islamabad, Pakistan"; ObjectID = "Pfa-RW-q7K"; */
+"Pfa-RW-q7K.text" = "Islamabad, Pakistan";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "UJV-sX-Yu8"; */
+"UJV-sX-Yu8.text" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "V4T-Sd-GOc"; */
+"V4T-Sd-GOc.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Choose Categories"; ObjectID = "W7X-CX-qEH"; */
+"W7X-CX-qEH.text" = "Choose Categories";
+
+/* Class = "UITextField"; placeholder = "+92"; ObjectID = "WdW-FP-uLc"; */
+"WdW-FP-uLc.placeholder" = "+92";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "WeL-bt-r81"; */
+"WeL-bt-r81.title" = "Categories";
+
+/* Class = "UILabel"; text = "Dubai"; ObjectID = "XjA-8t-3cP"; */
+"XjA-8t-3cP.text" = "Dubai";
+
+/* Class = "UILabel"; text = "Clear All"; ObjectID = "gmG-z9-fr8"; */
+"gmG-z9-fr8.text" = "Clear All";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "hPR-iU-kSg"; */
+"hPR-iU-kSg.placeholder" = "Confirm New Password";
+
+/* Class = "UITextField"; placeholder = "Serach for a spa, Service Provider, Location..."; ObjectID = "iKC-Se-CZ2"; */
+"iKC-Se-CZ2.placeholder" = "Serach for a spa, Service Provider, Location...";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "imP-Du-8BG"; */
+"imP-Du-8BG.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "kiU-9l-Q1a"; */
+"kiU-9l-Q1a.text" = "Categories";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "lCM-Vu-I4t"; */
+"lCM-Vu-I4t.title" = "Categories";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "n07-K4-Bvb"; */
+"n07-K4-Bvb.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Spa"; ObjectID = "o51-Hy-d1q"; */
+"o51-Hy-d1q.text" = "Spa";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "o9e-j1-9Sl"; */
+"o9e-j1-9Sl.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Enter Old Password"; ObjectID = "rel-fI-dhj"; */
+"rel-fI-dhj.placeholder" = "Enter Old Password";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "tu9-Yc-44Y"; */
+"tu9-Yc-44Y.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Why member"; ObjectID = "x43-43-FBW"; */
+"x43-43-FBW.text" = "Why member";
+
+/* Class = "UILabel"; text = " Abhijith R"; ObjectID = "x8t-po-07j"; */
+"x8t-po-07j.text" = " Abhijith R";
+
+/* Class = "UILabel"; text = "Abhi@gmail.com"; ObjectID = "yCh-Ev-AXK"; */
+"yCh-Ev-AXK.text" = "Abhi@gmail.com";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "z1w-xo-iyj"; */
+"z1w-xo-iyj.text" = "Edit Profile";
